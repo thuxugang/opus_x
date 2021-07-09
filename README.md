@@ -4,18 +4,18 @@
 
 **Results:** OPUS-TASS2 is an upgraded version of our previous method OPUSS-TASS. OPUS-TASS2 integrates protein global structure information and significantly outperforms OPUS-TASS. OPUS-Contact combines multiple raw co-evolutionary features with protein 1D features predicted by OPUS-TASS2, and delivers better results than the open-source state-of-the-art method trRosetta. OPUS-Fold2 is a complementary version of our previous method OPUS-Fold. OPUS-Fold2 is a gradient-based protein folding framework based on the differentiable energy terms in opposed to OPUS-Fold that is a sampling-based method used to deal with the non-differentiable terms. OPUS-Fold2 exhibits comparable performance to the Rosetta folding protocol in trRosetta when using identical inputs. OPUS-Fold2 is written in Python and TensorFlow2.4, which is user-friendly to any source-code level modification. 
 
-
-## Usage
-
 ## Framework of OPUS-X
 
 <img src="./images/figure1.png"/>
+
+## Usage
 
 ### Dependency
 
 ```
 Python 3.7
 TensorFlow 2.4
+hh-suite3
 ```
 
 The standalone version of OPUS-X is hosted on [xxxx](xxxx) with password `xxx`. The corresponding files for the testsets (CAMEO-Hard61 (60), CAMEO (78), CASP13 (26), and CASP14 (15)) we used can be downloaded from [xxxx](xxxx) with password `xxx`.
@@ -33,6 +33,14 @@ More information about generating `pssm` and `hhm` can be found in our [OPUS-TAS
 ### trRosetta
 
 [trRosetta](https://yanglab.nankai.edu.cn/trRosetta/)
+
+### CCMPed (already included)
+
+[CCMPed](https://github.com/soedinglab/CCMpred)
+
+### ResPRE (already included)
+
+[ResPRE](https://github.com/leeyang/ResPRE)
 
 ## Run OPUS-TASS2_and_Contact
 
