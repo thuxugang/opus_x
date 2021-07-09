@@ -18,7 +18,7 @@ TensorFlow 2.4
 hh-suite3
 ```
 
-The standalone version of OPUS-X is hosted on [xxxx](xxxx) with password `xxx`. The corresponding files for the testsets (CAMEO-Hard61 (60), CAMEO (78), CASP13 (26), and CASP14 (15)) we used can be downloaded from [xxxx](xxxx) with password `xxx`.
+The standalone version of OPUS-X is hosted on [Baidu Drive](https://pan.baidu.com/s/1ySqn_tKTQidS5AzUJEFt6Q) with password `93sa`. The corresponding files for the testsets (CAMEO-Hard61 (60), CAMEO (78), CASP13 (26), and CASP14 (15)) we used can be downloaded from [Baidu Drive](https://pan.baidu.com/s/1SacrMCpclsAiKdoPuJx0ng) with password `2tn4`.
 
 ## Useful Tools
 
