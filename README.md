@@ -108,3 +108,13 @@ Some intermediate structures of target 6BZT_D_21_522.pdb (with 501 residues in l
 
 <img src="./images/figure4.png"/>
 
+## Reference 
+```bibtex
+@article{xu2021opus1,
+  title={OPUS-X: an open-source toolkit for protein torsion angles, secondary structure, solvent accessibility, contact map predictions and 3D folding},
+  author={Xu, Gang and Wang, Qinghua and Ma, Jianpeng},
+  journal={Bioinformatics},
+  year={2021},
+  publisher={Oxford University Press}
+}
+```
