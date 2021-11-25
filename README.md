@@ -108,8 +108,8 @@ Some intermediate structures of target 6BZT_D_21_522.pdb (with 501 residues in l
 
 <img src="./images/figure4.png"/>
 
-## Accessibility
-This project is freely available for academic usage.
+## Availability 
+This project is freely available for academic usage only.
 
 ## Reference 
 ```bibtex
